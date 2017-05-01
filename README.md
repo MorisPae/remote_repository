@@ -1,3 +1,5 @@
 # remote_repository
 
-kyou ha kaminari ga kurusoudesu
+git push ha ikanotezyunnwositekudasai
+  git add de index ni noseru
+  git commit -m ""
